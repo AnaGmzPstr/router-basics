@@ -31,8 +31,8 @@ li{
     color: #333;
 }
 .link:hover{
-    color: #555;
-    text-decoration:wavy;
+    color: #666;
+    text-decoration: underline;
 }
 
 </style>
